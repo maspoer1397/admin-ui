@@ -1,4 +1,5 @@
-import Input from "./input";
+// import Input from "./input";
+import Input from "./Input";
 import Label from "./Label";
 
 /* eslint-disable react/prop-types */
