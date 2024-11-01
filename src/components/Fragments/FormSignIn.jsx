@@ -1,5 +1,6 @@
 import Button from "../Elements/Button";
-import CheckBox from "../Elements/CheckBox";
+// import CheckBox from "../Elements/CheckBox";
+import CheckBox from "../Elements/CheckBox/Index";
 import LabeledInput from "../Elements/LabeledInput";
 
 const FormSignIn = () => {
