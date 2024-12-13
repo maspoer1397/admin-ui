@@ -29,7 +29,7 @@ const CardBalance = () => {
                     {account.logo != "" && (
                         <img
                             className="ms-auto"
-                            src={`/assets/${account.logo}`}
+                            src={`/images/${account.logo}`}
                         />
                     )}
 
@@ -38,7 +38,7 @@ const CardBalance = () => {
                             ${account.balance}
                         </span>
                         <div className="bg-white max-w-min rounded-full ps-1 pt-1 ms-4">
-                            {/* <Icon.ArrowUpRight /> */}
+                            <Icon.ArrowUpRight />
                         </div>
                     </div>
                 </div>
